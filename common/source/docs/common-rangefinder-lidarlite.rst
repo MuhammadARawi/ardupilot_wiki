@@ -7,7 +7,7 @@ LIDAR-Lite Rangefinder
 The `Garmin / PulsedLight LIDAR-Lite <https://support.garmin.com/support/manuals/manuals.htm?partNo=010-01722-00>`__ rangefinder
 is a low-cost optical distance measurement solution with a 40m range
 under most operating conditions, low power consumption, and small form
-factor.  This sensor can be purchased from `Sparkfun <https://www.sparkfun.com/products/14032>`__ and `these distributors <http://pulsedlight3d.com/pages/distributors.html>`__ and
+factor.  This sensor can be purchased from `Sparkfun <https://www.sparkfun.com/products/14032>`__ and `Garmin <https://buy.garmin.com/en-US/US/p/557294.html>`__ and
 then technical info can be found `here <https://support.garmin.com/support/manuals/manuals.htm?partNo=010-01722-00>`__.
 
 .. note::
